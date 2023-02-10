@@ -77,3 +77,12 @@ body {
   align-items: center;
 }
 
+.header {
+  font-size: 32px;
+  font-weight: 900;
+  padding-left: 14px;
+  padding-top: 14px;
+  height: 55px;
+}
+
+
